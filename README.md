@@ -2,7 +2,7 @@
   💻<br>Ignite - Conceitos do React.js
 </h1>
 
-![Capítulo I - Challenge](public/preview.png)
+![Capítulo I - Desafio](public/preview.png)
 
 <h4 align="center"><a href="https://www.rocketseat.com.br/ignite">Clique para visitar o curso</a></h4>
 
